@@ -1,0 +1,38 @@
+Image sources used in this website demo:
+
+Official website: https://gabbardhaba.co.in/
+Official gallery: https://gabbardhaba.co.in/gallery/
+Official menu: https://gabbardhaba.co.in/menu/
+Official about page: https://gabbardhaba.co.in/about-us/
+Official contact page: https://gabbardhaba.co.in/contact-us/
+
+Direct image URLs used:
+
+Logo:
+https://gabbardhaba.co.in/wp-content/uploads/2023/08/cropped-355452794_113863715075057_6411651895204412155_n-1-150x141.jpg
+
+Restaurant/exterior/lawn/banquet/dining:
+https://gabbardhaba.co.in/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2023-08-09-at-12.38.37-PM1-1-r7l36wnvi74kyftq2ozlnexuqu25i7cfcx25xdy6x4.jpeg
+https://gabbardhaba.co.in/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2023-08-09-at-12.38.38-PM-r7l36wnvi74kyftq2ozlnexuqu25i7cfcx25xdy6x4.jpeg
+https://gabbardhaba.co.in/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2023-08-09-at-12.38.31-PM1-1-r7l36wnvi74kyftq2ozlnexuqu25i7cfcx25xdy6x4.jpeg
+https://gabbardhaba.co.in/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2023-08-09-at-12.38.38-PM1-1-r7l36wnvi74kyftq2ozlnexuqu25i7cfcx25xdy6x4.jpeg
+https://gabbardhaba.co.in/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2023-08-09-at-12.38.32-PM1-r7l36wnvi74kyftq2ozlnexuqu25i7cfcx25xdy6x4.jpeg
+https://gabbardhaba.co.in/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2023-08-09-at-12.38.33-PM-r7l36wnvi74kyftq2ozlnexuqu25i7cfcx25xdy6x4.jpeg
+https://gabbardhaba.co.in/wp-content/uploads/2023/08/5-1-1024x1024.jpg
+https://gabbardhaba.co.in/wp-content/uploads/2023/08/3-1024x1024.jpg
+https://gabbardhaba.co.in/wp-content/uploads/2023/08/1-1024x1024.jpg
+https://gabbardhaba.co.in/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-09-at-12.38.38-PM2.jpeg
+
+Food:
+https://gabbardhaba.co.in/wp-content/uploads/2019/12/Barbecue-dish-item-3.jpg
+https://gabbardhaba.co.in/wp-content/uploads/2023/08/chicken.jpg
+https://gabbardhaba.co.in/wp-content/uploads/2023/08/kebab.jpg
+https://gabbardhaba.co.in/wp-content/uploads/2023/08/bihari-cuisine_17d9fbffd60_large-removebg-preview.png
+https://gabbardhaba.co.in/wp-content/uploads/elementor/thumbs/handi-paneer1-r7l36wnsgk57p4r8vdhg3nwxykaz7vbjcoubjehnbk.png
+https://gabbardhaba.co.in/wp-content/uploads/elementor/thumbs/Chola_Masala-removebg-preview-r7l36wnsgk57p4r8vdhg3nwxykaz7vbjcoubjehnbk.png
+https://gabbardhaba.co.in/wp-content/uploads/elementor/thumbs/Paneer_Lababdar-removebg-preview-r7l36wnsgk57p4r8vdhg3nwxykaz7vbjcoubjehnbk.png
+https://gabbardhaba.co.in/wp-content/uploads/elementor/thumbs/Kadhai_Chicken-removebg-preview-r7l36wnsgk57p4r8vdhg3nwxykaz7vbjcoubjehnbk.png
+https://gabbardhaba.co.in/wp-content/uploads/elementor/thumbs/Chicken_Korma-removebg-preview-r7l36wnsgk57p4r8vdhg3nwxykaz7vbjcoubjehnbk.png
+https://gabbardhaba.co.in/wp-content/uploads/elementor/thumbs/ChickenTikka_Masala-removebg-preview-r7l36wnsgk57p4r8vdhg3nwxykaz7vbjcoubjehnbk.png
+
+Usage note: For final client delivery, get permission from the owner or replace images with photos provided by the restaurant.
